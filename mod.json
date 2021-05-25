@@ -1,0 +1,9 @@
+{
+    "id": "scifi-pack",
+    "version": "1.0.0",
+    "authors": ["Shnupbups"],
+    "name": "Sci-Fi Pack",
+    "description": "Adds Sci-Fi related symbols",
+    "dependencies": [],
+    "load-after": []
+}
